@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+##These functions create a list where some matrix is used to generate
+##A data structure with functions that maintain data regarding the inverse of the 
+##matrix, this matrix is always a squared invertible matrix. 
 
 ## This function creates a data structure based in functions
 ## with the purpose of maintaining and using previously calculated
